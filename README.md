@@ -8,7 +8,7 @@
 
 사이트 링크 : https://hamhmin.github.io/audio-technica/
 
-개인 리포지토리 링크 : https://asben1.github.io/2022.07.12-20_Audio-Technica/
+개인 리포지토리 링크 : https://asben1.github.io/2022.07.12-20_Audio-Technica-Mobile.ver/
 
 -----------------
 
